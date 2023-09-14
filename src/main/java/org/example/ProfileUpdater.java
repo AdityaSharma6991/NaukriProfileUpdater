@@ -79,7 +79,7 @@ public class ProfileUpdater {
         driver.findElement(By.id("saveBasicDetailsBtn")).click();
         driver.quit();
     }
-
+    
     @Test
     public void test() throws InterruptedException {
         // TODO Auto-generated method stub
